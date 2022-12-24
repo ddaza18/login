@@ -1,0 +1,11 @@
+com\mycompany\login\user\repository\UserRepository.class
+com\mycompany\login\user\repository\IUserRepository.class
+com\mycompany\login\forms\Login$1.class
+com\mycompany\login\forms\Login$3.class
+com\mycompany\login\user\model\UserEntity.class
+com\mycompany\login\forms\Login.class
+com\mycompany\login\forms\Login$5.class
+com\mycompany\login\conection\LoginBasicoNetBeans.class
+com\mycompany\login\conection\MySqlDBConection.class
+com\mycompany\login\forms\Login$4.class
+com\mycompany\login\forms\Login$2.class
